@@ -21,7 +21,7 @@ Devmountain
             -> Readme.md
         -> Grades
             -> Grades.txt
-        cd  foldername/folder
+        cd - /foldername/folder
 
 #5 Are you ready for the first day of javascript?!
 yes
