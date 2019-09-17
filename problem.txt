@@ -4,7 +4,7 @@ Answer each question with the proper commands from the command line:
 pwd
 
 #2  How do you remove a file?  Whats different about removing a folder?
-Remove a file: rm (file name). Removing a folder removes every file in that folder.
+Remove a file: rm (file name). Removing a folder removes every file in that folder. rm -rf
 
 #3  What command(s) can I use to make a new file?
 touch file name
